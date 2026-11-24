@@ -1,0 +1,11 @@
+anio,url,archivo,bytes,fecha_descarga_utc,estado,archivos_internos
+2017,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2017_txt.zip,EPH_usu_2_Trim_2017_txt.zip,3244184,2026-11-22 16:03:00,ya existía,"usu_individual_t217.txt, usu_hogar_t217.txt"
+2018,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2018_txt.zip,EPH_usu_2_Trim_2018_txt.zip,2921791,2026-11-22 16:03:03,ya existía,"usu_individual_t218.txt, usu_hogar_t218.txt"
+2019,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2019_txt.zip,EPH_usu_2_Trim_2019_txt.zip,3069931,2026-11-22 16:03:06,ya existía,"USU_individual_t219.txt, USU_hogar_t219.txt"
+2020,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2020_txt.zip,EPH_usu_2_Trim_2020_txt.zip,1910484,2026-11-22 16:03:08,ya existía,"usu_Individual_T220.txt, usu_hogar_T220.txt"
+2021,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2021_txt.zip,EPH_usu_2_Trim_2021_txt.zip,2578874,2026-11-22 16:03:11,ya existía,"usu_hogar_T221.txt, usu_individual_T221.txt"
+2022,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2022_txt.zip,EPH_usu_2_Trim_2022_txt.zip,3137831,2026-11-22 16:03:14,ya existía,"EPH_usu_2do_Trim_2022_txt/, EPH_usu_2do_Trim_2022_txt/usu_hogar_T222.txt.txt, EPH_usu_2do_Trim_2022_txt/usu_individual_T222.txt.txt"
+2023,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2023_txt.zip,EPH_usu_2_Trim_2023_txt.zip,2987879,2026-11-22 16:03:17,ya existía,"EPH_usu_2do_Trim_2023_txt/, EPH_usu_2do_Trim_2023_txt/usu_hogar_T223.txt, EPH_usu_2do_Trim_2023_txt/usu_individual_T223.txt"
+2024,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2024_txt.zip,EPH_usu_2_Trim_2024_txt.zip,3622569,2026-11-22 16:03:19,ya existía,"EPH_usu_2_Trim_2024_txt/, EPH_usu_2_Trim_2024_txt/usu_hogar_T224.txt, EPH_usu_2_Trim_2024_txt/usu_individual_T224.txt"
+2025,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2025_txt.zip,EPH_usu_2_Trim_2025_txt.zip,3462812,2026-11-22 16:03:23,ya existía,"usu_individual_T225.txt, usu_hogar_T225.txt"
+2026,https://www.indec.gob.ar/ftp/cuadros/menusuperior/eph/EPH_usu_2_Trim_2026_txt.zip,EPH_usu_2_Trim_2026_txt.zip,2866599,2026-11-22 16:03:25,ya existía,"usu_hogar_T226.txt, usu_individual_T226.txt"

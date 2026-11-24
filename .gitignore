@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# Las bases de la EPH y del IPC no se versionan: las descarga 01_preparacion.ipynb
+datos_originales/
+datos_procesados/
